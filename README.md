@@ -1,4 +1,4 @@
-# 🎓 from gans to clip: a hands-on journey in generative ai with pytorch
+🎓 from gans to clip: a hands-on journey in generative ai with pytorch
 
 i'm currently learning to implement generative ai architectures from scratch using pytorch. this repository documents my hands-on learning journey—from basic gans to more advanced models and multimodal ai systems. it includes detailed implementations, experiments, and key insights along the way.
 
@@ -30,7 +30,14 @@ i'm currently learning to implement generative ai architectures from scratch usi
    
 8. **final training run**  
    executed the full training loop and evaluated results across epochs.
+   
 
+   <img src="https://github.com/user-attachments/assets/0c6f3f6d-4290-4fc9-b3bf-a7d9c892fffb" width="250"/><img src="https://github.com/user-attachments/assets/8024ae65-ae0a-4a6d-a69a-d08e88058818" width="250"/>
+   
+   figures: generated & real images (respectively)
+   
+   
+   
 ---
 
 ### 🚀 coding an advanced generative architecture (wgan-gp with celeba)
@@ -63,16 +70,16 @@ i'm currently learning to implement generative ai architectures from scratch usi
 7. **execution and evaluation**  
    - reviewed and ran the full training  
    - observed sample outputs after a few epochs
-   - 
+     
 ---
 
 ## 🔜 Upcoming Modules
 
 - **combining gans + clip**  
-  Generating images from text using hybrid generative architectures.
+  generating images from text using hybrid generative architectures.
 
 - **clothing editing with segmentation + generation**  
-  Modifying clothing items in images with segmentation and generative AI.
+  modifying clothing items in images with segmentation and generative AI.
 
 - **visual experimentation with multimodal models**  
   playing with text-image interaction using transformer-based models like CLIP.
