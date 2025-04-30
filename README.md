@@ -68,7 +68,11 @@ i'm currently learning to implement generative ai architectures from scratch usi
 7. **execution and evaluation**  
    - reviewed and ran the full training  
    - observed sample outputs after a few epochs
-     
+
+<img src="https://github.com/user-attachments/assets/b87961d8-2f8c-4df7-890d-7e1c2c422aeb" width="250"/><img src="https://github.com/user-attachments/assets/1f883913-3f49-414d-a4e8-9f409ab91d83" width="250"/><img src="https://github.com/user-attachments/assets/7dabbb2c-a4c4-4582-b9e8-c7111263a12c" width="250"/><img src="https://github.com/user-attachments/assets/9e00a9d6-d99b-4e3e-81ee-60d9449cee8a" width="250"/>
+
+figures: fake faces (from epochs 1-5-50)  & real faces - respectively.
+
 ---
 
 ## 🔜 Upcoming Modules
