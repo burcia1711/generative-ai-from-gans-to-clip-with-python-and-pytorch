@@ -6,7 +6,7 @@ i'm currently learning to implement generative ai architectures from scratch usi
 
 ## ✅ completed modules
 
-### 🧱 coding a basic generative architecture
+### 🧱 [coding a basic generative architecture](basic_gan.ipynb)
 1. **importing libraries & visualisation**  
    set up the environment and created utility functions for visualising generated images.
 
@@ -36,11 +36,9 @@ i'm currently learning to implement generative ai architectures from scratch usi
    
    figures: generated & real images (respectively)
    
-   
-   
 ---
 
-### 🚀 coding an advanced generative architecture (wgan-gp with celeba)
+### 🚀 [coding an advanced generative architecture (wgan-gp with celeba)](advanced_gan.ipynb)
 
 1. **concepts and theory**  
    - challenges in basic gans  
@@ -75,7 +73,7 @@ i'm currently learning to implement generative ai architectures from scratch usi
 
 ## 🔜 Upcoming Modules
 
-- **combining gans + clip**  
+- ### [combining gans + clip](clip+vqgan.ipynb)  
   generating images from text using hybrid generative architectures.
 
 - **clothing editing with segmentation + generation**  
