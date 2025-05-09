@@ -75,10 +75,33 @@ figures: fake faces (from epochs 1-5-50)  & real faces - respectively.
 
 ---
 
-## 🔜 Upcoming Modules
-
-- ### [combining gans + clip](clip+vqgan.ipynb)  
+ ### [📝 combining gans + clip 🎨](clip+vqgan.ipynb)  
   generating images from text using hybrid generative architectures.
+
+  1. **multimodal generation setup**
+   - importing libraries and defining helper functions
+   - setting up hyperparameters and the CLIP model
+
+   2. **model implementation**
+   - initialising the transformer-based image generator
+   - encoding text prompts and optimising the latent space
+   - creating and displaying image crops
+   - training loop, parameter optimisation, and running the training
+<img src="https://github.com/user-attachments/assets/3c7814d1-3973-43d3-b462-317432d618b3" width="200"/>
+<img src="https://github.com/user-attachments/assets/0d899519-0270-4d43-b888-803b679721e5" width="350"/>
+
+   3. **interpolation and visualisation**
+   - interpolating between latent points
+   - creating videos from interpolation sequences 🎞️
+
+https://github.com/user-attachments/assets/a43a3234-4808-4926-b22b-1eb94a365cdc
+
+   4. **creative enhancements**
+   - generating code variations
+   - tweaking generation for new textures (Davinci Sfumato section)
+
+
+## 🔜 Upcoming Modules
 
 - **clothing editing with segmentation + generation**  
   modifying clothing items in images with segmentation and generative AI.
