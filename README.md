@@ -99,6 +99,7 @@ https://github.com/user-attachments/assets/a43a3234-4808-4926-b22b-1eb94a365cdc
    4. **creative enhancements**
    - generating code variations
    - tweaking generation for new textures (Davinci Sfumato section)
+<img src="https://github.com/user-attachments/assets/d35fa949-b045-4fdd-b8de-3e7cdf87b09b"/>
 
 
 ## 🔜 Upcoming Modules
