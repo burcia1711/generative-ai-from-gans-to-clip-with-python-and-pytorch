@@ -114,7 +114,7 @@ https://github.com/user-attachments/assets/a43a3234-4808-4926-b22b-1eb94a365cdc
  
 ---
 
-### [👒👗 clothing editing with segmentation + generation](clothesReplacementResearchCase.ipynb)
+### [👒👗 clothing editing with segmentation + generation](clothes_replacement_research_case.ipynb)
  modifying clothing items in images with segmentation and generative AI.
 
 **1. initial setup and segmentation**
