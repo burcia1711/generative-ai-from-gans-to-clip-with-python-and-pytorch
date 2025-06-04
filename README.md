@@ -32,7 +32,7 @@ i'm currently learning to implement generative ai architectures from scratch usi
 - executed the full training loop and evaluated results across epochs.
   
   <p align="center"> 
-   <img src="https://github.com/user-attachments/assets/0c6f3f6d-4290-4fc9-b3bf-a7d9c892fffb" width="400"/><img src="https://github.com/user-attachments/assets/8024ae65-ae0a-4a6d-a69a-d08e88058818" width="400"/>
+   <img src="https://github.com/user-attachments/assets/0c6f3f6d-4290-4fc9-b3bf-a7d9c892fffb" width="250"/><img src="https://github.com/user-attachments/assets/8024ae65-ae0a-4a6d-a69a-d08e88058818" width="250"/>
    </p>
 <div align="center">
   generated (left) & real (right) images.
@@ -72,7 +72,7 @@ i'm currently learning to implement generative ai architectures from scratch usi
 - observed sample outputs after a few epochs
   
  <p align="center"> 
-<img src="https://github.com/user-attachments/assets/b87961d8-2f8c-4df7-890d-7e1c2c422aeb" width="250"/><img src="https://github.com/user-attachments/assets/1f883913-3f49-414d-a4e8-9f409ab91d83" width="250"/><img src="https://github.com/user-attachments/assets/7dabbb2c-a4c4-4582-b9e8-c7111263a12c" width="250"/><img src="https://github.com/user-attachments/assets/9e00a9d6-d99b-4e3e-81ee-60d9449cee8a" width="250"/>
+<img src="https://github.com/user-attachments/assets/b87961d8-2f8c-4df7-890d-7e1c2c422aeb" width="200"/><img src="https://github.com/user-attachments/assets/1f883913-3f49-414d-a4e8-9f409ab91d83" width="200"/><img src="https://github.com/user-attachments/assets/7dabbb2c-a4c4-4582-b9e8-c7111263a12c" width="200"/><img src="https://github.com/user-attachments/assets/9e00a9d6-d99b-4e3e-81ee-60d9449cee8a" width="200"/>
  </p>
 <div align="center">fake faces (from epochs 1-5-50)  & real faces - respectively. </div>
 
